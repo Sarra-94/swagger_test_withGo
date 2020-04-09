@@ -29,7 +29,7 @@ var doc = `{
         },
         "version": "{{.Version}}"
     },
-    "host": "{{.Host}}",
+    "host": "{{.Host}}:8080",
     "basePath": "{{.BasePath}}",
     "paths": {
         "/orders": {
